@@ -8,5 +8,6 @@
 - 🌱 Atualmente estou estudando back-end
 - 😄 Pronomes: ela/dela
 
+ <img alt="my stats" align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=priscilanascp"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priscilanascp)](https://github.com/priscilanascp/github-readme-stats)
+<img alt="top langs" align="left"  width="37%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilanascp&layout=compact"/>
